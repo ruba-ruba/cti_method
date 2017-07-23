@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["mykhailo.rybak"]
   spec.email         = ["mykhailo.rybak.if@gmail.com"]
 
-  spec.summary       = %q{cti-method}
-  spec.description   = %q{cti-method}
-  spec.homepage      = "https://github.com/ruba-ruba/cti-method"
+  spec.summary       = %q{cti_method}
+  spec.description   = %q{cti_method}
+  spec.homepage      = "https://github.com/ruba-ruba/cti_method"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
